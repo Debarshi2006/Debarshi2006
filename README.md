@@ -1,8 +1,11 @@
+![logo](https://github.com/Debarshi2006/Debarshi2006/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Debarshi Das</h1>
 <h3 align="center">A passionate BCA student from India.</h3>
-
+<img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarshi2006&label=Profile%20views&color=0e75b6&style=flat" alt="debarshi2006" /> </p>
 
+
+- 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **GSAP**
 
 - 📫 How to reach me **debarshidas742@gmail.com**

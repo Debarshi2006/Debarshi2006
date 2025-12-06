@@ -1,6 +1,7 @@
 ![logo](https://github.com/Debarshi2006/Debarshi2006/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Debarshi Das</h1>
 <h3 align="center">A passionate BCA student from India</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarshi2006&label=Profile%20views&color=0e75b6&style=flat" alt="debarshi2006" /> </p>
 

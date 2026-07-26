@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development and Cloud Computing .**
 
-- 💬 Ask me about ** Django.**
+- 💬 Ask me about **Django.**
 
 - 📫 How to reach me **debarshidas742@gmail.com**
 

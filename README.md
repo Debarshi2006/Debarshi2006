@@ -61,7 +61,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
     </span>
     <span style="display:inline-block">
-    <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Debarshi2006/Debarshi2006/blob/main/gsap-logo.png" alt="GSAP" height="70" width="80"></a> 
+    <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Debarshi2006/Debarshi2006/blob/main/gsap-logo.png" alt="GSAP" height="60" width="70"></a> 
     </span>
     <span style="display:inline-block">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 

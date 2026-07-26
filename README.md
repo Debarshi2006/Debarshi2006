@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/debarshi_das06" target="blank"><img src="https://img.shields.io/twitter/follow/debarshi_das06?logo=twitter&style=for-the-badge" alt="debarshi_das06" /></a> </p>
 
 
-- 🌱 I’m currently learning **Web and App Development.**
+- 🌱 I’m currently learning **Web Development and Cloud Computing .**
 
-- 💬 Ask me about **GSAP, Flutter, Django.**
+- 💬 Ask me about ** Django.**
 
 - 📫 How to reach me **debarshidas742@gmail.com**
 
